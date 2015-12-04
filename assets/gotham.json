@@ -1,0 +1,7 @@
+{
+    "name": "myproject",
+    "version": "1.0.0",
+    "dependencies": [
+        {"source": "github.com/mailjet-apiv3-go"}
+    ]
+}

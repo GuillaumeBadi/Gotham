@@ -1,0 +1,13 @@
+{
+  "Name": "myproject",
+  "Version": "1.0.0",
+  "Source": "",
+  "Licence": "",
+  "Author": "",
+  "Dependencies": [
+    {
+      "Name": "",
+      "Source": "github.com/mailjet-apiv3-go"
+    }
+  ]
+}
